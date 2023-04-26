@@ -24,10 +24,12 @@ img {
 }
 
 .field {
-  margin-left: 15px;
+  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
 }
 
 .value {
   font-weight: bold;
-  font-size: x-large;
+  font-size: xx-large;
 }
